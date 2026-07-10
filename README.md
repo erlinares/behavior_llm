@@ -17,8 +17,6 @@ tests, and no application code to run.
 
 | File | Description |
 |---|---|
-| [`LLM_behavior_evaluation_survey.md`](LLM_behavior_evaluation_survey.md) | The essay, in English (canonical version). |
-| [`LLM_behavior_evaluation_survey_ES.md`](LLM_behavior_evaluation_survey_ES.md) | Spanish translation, kept in sync with the English version. |
 | [`LLM_behavior_evaluation_survey.pdf`](LLM_behavior_evaluation_survey.pdf) / [`_ES.pdf`](LLM_behavior_evaluation_survey_ES.pdf) | Rendered arXiv-style PDFs of the two versions above. |
 | [`state_of_art/`](state_of_art/) | Archive of the ~40 primary sources (arXiv PDFs) cited in the essay, indexed in [`state_of_art/SOURCES.md`](state_of_art/SOURCES.md). |
 
